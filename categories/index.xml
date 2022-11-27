@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on LogBook | Hugo Personal Blog Template</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://bemantek.com/categories/</link>
     <description>Recent content in Categories on LogBook | Hugo Personal Blog Template</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ar</language>
-    <lastBuildDate>Sun, 15 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Mar 2020 15:40:24 +0600</lastBuildDate><atom:link href="https://bemantek.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>photography</title>
-      <link>http://localhost:1313/categories/photography/</link>
+      <link>https://bemantek.com/categories/photography/</link>
       <pubDate>Sun, 15 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>http://localhost:1313/categories/photography/</guid>
+      <guid>https://bemantek.com/categories/photography/</guid>
       <description></description>
     </item>
     
     <item>
       <title>four seasone</title>
-      <link>http://localhost:1313/categories/four-seasone/</link>
+      <link>https://bemantek.com/categories/four-seasone/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>http://localhost:1313/categories/four-seasone/</guid>
+      <guid>https://bemantek.com/categories/four-seasone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>newyork city</title>
-      <link>http://localhost:1313/categories/newyork-city/</link>
+      <link>https://bemantek.com/categories/newyork-city/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>http://localhost:1313/categories/newyork-city/</guid>
+      <guid>https://bemantek.com/categories/newyork-city/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photobooth</title>
-      <link>http://localhost:1313/categories/photobooth/</link>
+      <link>https://bemantek.com/categories/photobooth/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>http://localhost:1313/categories/photobooth/</guid>
+      <guid>https://bemantek.com/categories/photobooth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>videography</title>
-      <link>http://localhost:1313/categories/videography/</link>
+      <link>https://bemantek.com/categories/videography/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
       
-      <guid>http://localhost:1313/categories/videography/</guid>
+      <guid>https://bemantek.com/categories/videography/</guid>
       <description></description>
     </item>
     
