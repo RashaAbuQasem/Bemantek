@@ -7,12 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ar</language><atom:link href="https://bemantek.com/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>John Doe</title>
-      <link>https://bemantek.com/author/john-doe/</link>
+      <title>Rasha Abu Qasem</title>
+      <link>https://bemantek.com/author/rasha-abu-qasem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bemantek.com/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
+      <guid>https://bemantek.com/author/rasha-abu-qasem/</guid>
+      <description>مرحباً&amp;hellip;
+أنا رشا، أم لثلاثة أطفال وباحثة في مجال هندسة البرمجيات في معهد فراونهوفر لبحوث البرمجيات.
+بدأت أفكار هذه المدونة بالنضوج شيئاً فشيئاً خلال دراستي للماجستير في هندسة البرمجيات في ألمانيا. اختياري للاختصاص الثانوي بعلم النفس كان البوصلة التي هدتني لأهمية تسليط الضوء على التأثير النفسي للتكنولوجيا في حياتنا كآباء وأمهات وأطفال.</description>
     </item>
     
   </channel>

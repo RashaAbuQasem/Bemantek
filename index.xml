@@ -188,15 +188,6 @@
     </item>
     
     <item>
-      <title>John Doe</title>
-      <link>https://bemantek.com/author/john-doe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bemantek.com/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
-    </item>
-    
-    <item>
       <title>No Search Found</title>
       <link>https://bemantek.com/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -221,6 +212,17 @@
       
       <guid>https://bemantek.com/terms-conditions/</guid>
       <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.</description>
+    </item>
+    
+    <item>
+      <title>Rasha Abu Qasem</title>
+      <link>https://bemantek.com/author/rasha-abu-qasem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bemantek.com/author/rasha-abu-qasem/</guid>
+      <description>مرحباً&amp;hellip;
+أنا رشا، أم لثلاثة أطفال وباحثة في مجال هندسة البرمجيات في معهد فراونهوفر لبحوث البرمجيات.
+بدأت أفكار هذه المدونة بالنضوج شيئاً فشيئاً خلال دراستي للماجستير في هندسة البرمجيات في ألمانيا. اختياري للاختصاص الثانوي بعلم النفس كان البوصلة التي هدتني لأهمية تسليط الضوء على التأثير النفسي للتكنولوجيا في حياتنا كآباء وأمهات وأطفال.</description>
     </item>
     
     <item>
